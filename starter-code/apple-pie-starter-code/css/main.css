@@ -18,9 +18,18 @@
   font-family:arial;
   left: 32%;
   top: 31%;
-  /*left:430px;
-  top:300px;*/
 }
+
+#text_soup {
+  z-index:0;
+  position:absolute;
+  color:white;
+  font-size:100px;
+  font-family:arial;
+  left: 12%;
+  top: 31%;
+}
+
 .font_family {
   font-family: verdana;
   font-weight: 100;
