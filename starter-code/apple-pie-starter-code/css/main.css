@@ -1,0 +1,61 @@
+#container {
+  width: 100%;
+  position: relative;
+}
+
+#image {
+  positon: absolute;
+  width: 100%;
+  left:0;
+  top:0;
+}
+
+#text {
+  z-index:300;
+  position:absolute;
+  color:white;
+  font-size:100px;
+  font-family:arial;
+  left: 32%;
+  top: 31%;
+  /*left:430px;
+  top:300px;*/
+}
+.font_family {
+  font-family: verdana;
+  font-weight: 100;
+}
+
+#main_div {
+  margin-left: 120px;
+  margin-right: 120px;
+}
+
+.paragraph {
+  font-family: verdana;
+  font-size: 30px;
+  margin-left: 30px;
+  margin-right: 30px;
+}
+#recipe_pics {
+  display: block;
+  margin: 0 auto;
+}
+
+.bottom_border {
+  border-bottom: solid 2px #61656b;
+  border-top: solid 2px #61656b;
+}
+
+.font_regular {
+  font-size: 25px;
+}
+
+h1 {
+  font-size: 33px;
+  font-weight: 500;
+}
+
+.lists {
+  margin-left: 40px;
+}
